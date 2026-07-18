@@ -94,7 +94,7 @@ const TitleAndDescription: React.FC<{ keywords: string[] }> = ({keywords}) => {
 
     return (
         <TopLevelGroup
-            description='The details used to identify your publication around the web'
+            description='The details used to identify your publication around the web · Inflight QA preview test'
             isEditing={isEditing}
             keywords={keywords}
             navid='general'
